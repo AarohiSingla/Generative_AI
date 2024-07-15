@@ -1,3 +1,5 @@
+### Check this video : https://youtu.be/VvpuGpXOYrQ
+
 ### Environment setup:
     
     py -3.10 -m venv myvenv
@@ -21,4 +23,4 @@
 
 ###  To run language translator app:
 
-   streamlit run gemini_applanguage_translator.py
+    streamlit run gemini_applanguage_translator.py
