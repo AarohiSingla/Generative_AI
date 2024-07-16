@@ -10,7 +10,7 @@
       pip install -r requirements.txt
 
 Api key:
-      https://platform.openai.com/api-keys   
+        https://platform.openai.com/api-keys   
 
 Run App:
-      streamlit run chatgpt_like_app.py
+        streamlit run chatgpt_like_app.py
