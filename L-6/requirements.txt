@@ -1,0 +1,5 @@
+langchain
+langchain-ollama
+streamlit
+langchain_experimental
+
