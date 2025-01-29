@@ -1,4 +1,4 @@
-### Video Tutorial: 
+### Video Tutorial (Hindi):  https://youtu.be/uBQiWk0buwM
 
 Download and install  ollama  - https://ollama.com/
 
