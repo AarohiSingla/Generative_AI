@@ -1,5 +1,7 @@
 ### Video Tutorial (Hindi):  https://youtu.be/uBQiWk0buwM
 
+### Video Tutorial (English): https://youtu.be/Yy2xXp0UGcM
+
 Download and install  ollama  - https://ollama.com/
 
 ## Environment setup:
